@@ -1,1 +1,2 @@
-print("hello")
+def mul(a,b):
+    return a*b 
