@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-print("afwfhwfwfx")
-=======
-print("afwfhwfwfcd")
->>>>>>> bf1b51e7427cf4359fbd0f32ed49a3327cf2d388
