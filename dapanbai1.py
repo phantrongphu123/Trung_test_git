@@ -1,3 +1,3 @@
 print("Hello bai 1")
-#Sai
-print("Hello bai 2")
+#
+print("Hello bai 2") #đáp án 
